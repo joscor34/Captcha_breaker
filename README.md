@@ -1,16 +1,16 @@
 # CAPTCHA BREAKER
 
-Este codigo sirve para aprovechar la opcion dictada del CAPTCHA v2 y poder explotarla para que un robot tenga acceso a una pagina
+Este código aprovecha la opcion de dictado del CAPTCHA v2 y la explota para que un robot tenga acceso a una página.
 
 ---
 
 ## Pasos para corre el programa
 
-Primero debemos instalar todas las librerias para python, en el documento __requirementes.txt__ ya vienen todas listas ser instaladas con el comando:
+Primero, debemos instalar todas las librerias para python. En el documento __requirementes.txt__ ya vienen todas listas ser instaladas con el comando:
 
   - ``pip install -r requirements.txt`` 
 
-Una vez instaladas las librerias en la carpeta __webdriver__ ya vienen dos versiones de Chromedriver, una es para windows y la otra para MacOS. En caso de tener MacOS y que la version que viene dentro de la carpeta le cause errores deberá seguir el siguiente procedimiento (deberá tener Brew previamente instalado):
+Una vez instaladas las librerias, en la carpeta __webdriver__ ya vienen dos versiones de Chromedriver, una es para windows y la otra para MacOS. En caso de tener MacOS y que la version que viene dentro de la carpeta le cause errores deberá seguir el procedimiento a continuación (deberá tener Brew previamente instalado):
 
   - ``brew install --cask chromedriver`` (Debe tener instalada la ultima versión de Chrome instalada)
 
