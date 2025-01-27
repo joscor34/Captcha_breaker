@@ -10,7 +10,7 @@ Primero debemos instalar todas las librerias para python, en el documento __requ
 
   - ``pip install -r requirements.txt`` 
 
-Una vez instaladas las librerias en la carpeta __webdriver__ ya vienen dos versiones de Chromedriver, una es para windows y la otra para MacOS. En casa de tener MacOS y que la version que viene dentro de la carpeta le cause errores deberá seguir el siguiente procedimiento (deberá tener Brew previamente instalado):
+Una vez instaladas las librerias en la carpeta __webdriver__ ya vienen dos versiones de Chromedriver, una es para windows y la otra para MacOS. En caso de tener MacOS y que la version que viene dentro de la carpeta le cause errores deberá seguir el siguiente procedimiento (deberá tener Brew previamente instalado):
 
   - ``brew install --cask chromedriver`` (Debe tener instalada la ultima versión de Chrome instalada)
 
